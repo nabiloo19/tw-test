@@ -1,0 +1,14 @@
+{
+    "name": {
+        "ar": "tw-test",
+        "en": "tw-test"
+    },
+    "description": {
+        "ar": "",
+        "en": ""
+    },
+    "author_email": "nabil@salla.sa",
+    "support_url": "",
+    "repository": "https://github.com/nabiloo19/tw-test",
+    "components": []
+}
